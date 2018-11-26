@@ -2,4 +2,5 @@ base.txtはunityのスクリプトリファレンスから手動でコピペし�
 https://docs.unity3d.com/ja/2017.4/ScriptReference/index.html
 
 start.rbを実行すれば辞書が出来る。
-process_dicで辞書のソートと５文字以下の単語の除去を行う.
+
+作成した辞書も入れてあるので、使用するならoutput/dic_sort.jsonを使えばいい
