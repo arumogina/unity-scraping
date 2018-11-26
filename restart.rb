@@ -1,4 +1,5 @@
 #for restart 途中で止まったときにlast_pathから再開する
+#作ったはいいが、これを作った後に限って一度も止まらず動いたので、これの動作テストが出来てない
 require_relative "class_list"
 require_relative "method_list"
 require "json"
