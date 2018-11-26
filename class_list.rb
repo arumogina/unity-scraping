@@ -6,7 +6,7 @@ class ClassList
     return extract_class(read_base_text);
   end
 
-  #クラス名をjsonに書き込み（実際にはクラス以外も混じってる。".class"以降のもののみ取得すればクラスだけ取得できる)
+  #クラス名をjsonに書き込み
   def write_class(class_list)
     wcl = []
     class_list.each { |cl|
